@@ -1,1 +1,0 @@
-long_running_function(2,5)
